@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo! 👋
 
 <!--
 **SS-742/SS-742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
